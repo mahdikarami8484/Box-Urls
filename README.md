@@ -4,5 +4,5 @@
 - **not have admin panel**
 
 ## How to use :
-- import sqlfile/links.sql to your database
+- import sqlfile/box urls.sql to your database
 - edit 
