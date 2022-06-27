@@ -6,4 +6,5 @@
 ## How to use :
 1. import sqlfile/box urls.sql to your database
 2. edit file config.php and personalize with your host
-![image](https://user-images.githubusercontent.com/67632452/127019628-66b9fb65-6e19-48ac-8c00-b2533510a89a.png)
+- ![image](https://user-images.githubusercontent.com/67632452/176024198-d784fdcf-1fac-463b-ae6f-ed5840f4cba6.png)
+
