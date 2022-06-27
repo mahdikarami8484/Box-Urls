@@ -1,0 +1,2 @@
+<h2 class="noturl text-dark" style="font-size: 30px"> شما آدرسی اضافه نکردید!! برای اضافه کردن روی دکمه زیر کلیک کنید.</h2>
+<a href="http://localhost/links/addurl" class="btn-home btn btn-dark col-lg-2">افزودن آدرس</a>
